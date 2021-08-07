@@ -1,3 +1,8 @@
+# Notes
+
+Make sure to use ENV vars for the Supabase connection in the client.js file.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
